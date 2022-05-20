@@ -1,4 +1,4 @@
-# Anti-Pandemic-Predictor web app deployed on Heroku
+# Anti-Pandemic-Predictor web app deployed
 
 The deployed web app is live at 
 
